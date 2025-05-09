@@ -1,4 +1,4 @@
-package com.corhuila.pulidorojo;
+package com.corhuila.pulidorojo.pulidorojo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
